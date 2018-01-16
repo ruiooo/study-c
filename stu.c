@@ -155,7 +155,7 @@ int day7(void) {
 
     // printf("*%d*\n", PAGES);
     // printf("*%2d*\n", PAGES);
-    // printf("*%3d*\n", PAGES);2
+    // printf("*%3d*\n", PAGES);
     // printf("*%6d*\n", PAGES);
     // printf("*%10d*\n", PAGES);
     // printf("*%-10d*\n", PAGES);
